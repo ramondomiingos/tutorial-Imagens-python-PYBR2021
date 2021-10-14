@@ -13,4 +13,5 @@ Existe filtros que podem ser adicionados a imagens exemplos:
 - Gauss
 - Sobel - Detecção de Bordas 
 - Laplace
->Adicione uma pasta(Caso não exista) com o nome do filtro e um exemplo de codigo seguindo o padrão: **filtro_autor.py** ( ex: gauss_ramon.py)
+- Negativo
+>Adicione uma pasta ( caso não exista ) com o nome do filtro e um exemplo de codigo seguindo o padrão: **filtro_autor.py** ( ex: gauss_ramon.py)
