@@ -1,4 +1,4 @@
-# tutorial-Imagens-python-PYBR2021
+# Tutorial :  Manipulando Imagens da webCam com Python - PYBR2021
 Tutorial apresentado na #PyBR2021 com o título Manipulando Imagens da webCam com Python.
 
 ## Material:
@@ -7,7 +7,7 @@ Tutorial apresentado na #PyBR2021 com o título Manipulando Imagens da webCam co
 - [Documentação NumPy](https://numpy.org/)
 - [Gimp](https://www.gimp.org/)
 
-## Como Contribuir
+## Como Contribuir:
 Existe filtros que podem ser adicionados a imagens exemplos:
 - Blur 
 - Gauss
