@@ -2,7 +2,8 @@
 Tutorial apresentado na #PyBR2021 com o título Manipulando Imagens da  webcam com Python no dia 17 de outubro, as 15h;
 
 Repositório criado com o intuito de compartilhar os exemplos e receber contribuição dos participantes  com outros exemplos de filtros para processamento de imagem.
-Sejam bem vindos!
+>Sejam bem vindos!
+
 Pessoas > Tecnologia
 
 ## Material:
