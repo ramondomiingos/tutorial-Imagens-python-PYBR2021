@@ -1,7 +1,6 @@
 from PIL import Image
 import glob
 def criar_gif():
-
  
 # Criar frames 
     frames = []
@@ -14,4 +13,4 @@ def criar_gif():
     frames[0].save('meu_gif.gif', format='GIF',
                append_images=frames[1:],
                save_all=True,
-               duration=300, loop=0)
+               duration=200, loop=0)
